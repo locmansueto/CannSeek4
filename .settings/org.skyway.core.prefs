@@ -1,0 +1,7 @@
+#org.skyway.core settings
+#Tue May 31 13:41:23 SGT 2016
+version=12.0.0.qualifier
+default.top.level.package=org.irri.iric.portal.genotype
+customization.specification=
+models.folder.name=.springDSL
+initialized=true
